@@ -149,8 +149,8 @@ DSA統計:
 
 ## 📞 聯絡方式 Contact
 
-- GitHub Issues: [專案問題回報](https://github.com/[your-username]/stock-data-analysis/issues)
-- Email: your.email@example.com
+- GitHub Issues: [專案問題回報](https://github.com/OVEROVEN/stock-data-analysis/issues)
+- Email: louismore510048@gmail.com
 
 ## 🔗 相關連結 Related Links
 
